@@ -1,4 +1,5 @@
 ﻿#include <iostream>
+#include <Windows.h>
 using namespace std;
 
 void Foo(int n)
